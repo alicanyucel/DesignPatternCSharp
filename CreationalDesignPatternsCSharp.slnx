@@ -2,4 +2,5 @@
   <Project Path="AbstractFactory/AbstractFactory.csproj" />
   <Project Path="AbstractFactoryTest/AbstractFactoryTest.csproj" />
   <Project Path="BuilderDesign/BuilderDesign.csproj" />
+  <Project Path="BuilderDesignPatternTest/BuilderDesignPatternTest.csproj" />
 </Solution>

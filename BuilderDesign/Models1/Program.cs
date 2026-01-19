@@ -1,5 +1,6 @@
 ﻿
 using BuilderDesign;
+using BuilderDesign.Models;
 
 internal class Program
 {
@@ -7,5 +8,6 @@ internal class Program
     {
       Car familycar=new CarDirector().BuildFamilyCar();
       Car sportcar=new CarDirector().BuildSportCar();
+      Product product=new ProductDirector().BuildProduct("Red","Large","Nike");
     }
 }
