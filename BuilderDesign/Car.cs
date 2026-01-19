@@ -1,6 +1,6 @@
 ﻿namespace BuilderDesign;
 
-internal class Car
+public class Car
 {
     public Car()
     {
